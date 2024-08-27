@@ -1,5 +1,5 @@
 # poetisasSO
-!DOI: 10.5281/zenodo.13379686
+DOI: 10.5281/zenodo.13379686
 
 Materiales complementarios de mi trabajo "Los sonetos de autoría femenina en el Siglo de Oro: aproximación estilométrica".
 
