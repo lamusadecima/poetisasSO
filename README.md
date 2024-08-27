@@ -1,5 +1,5 @@
 # poetisasSO
-DOI: 10.5281/zenodo.13379686
+![image](https://github.com/user-attachments/assets/8bd2679a-e821-4b5d-b8a2-dc10b06ce0e0)
 
 Materiales complementarios de mi trabajo "Los sonetos de autoría femenina en el Siglo de Oro: aproximación estilométrica".
 
